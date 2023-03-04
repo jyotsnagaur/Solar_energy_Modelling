@@ -6,4 +6,3 @@ Abstract—Renewable energy is being increasingly incorporated in our city power
 Keywords—Solar Power, Renewable Energy, Smart Grids, Machine Learning, Energy Modelling.
 
 
-Please go to IEEE explore for the complete paper!
